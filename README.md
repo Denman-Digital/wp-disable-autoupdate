@@ -1,6 +1,6 @@
-# WP Disable Auto-Updates
+# 🛑 WP Disable Auto-Updates 🛑
 
-Wordpress plugin to disable auto-updates.
+WordPress plugin to disable auto-updates.
 
 ## Installation
 
